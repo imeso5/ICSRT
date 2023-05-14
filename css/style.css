@@ -1948,4 +1948,5 @@ section.service-single.section-space .row{
 p{
 	font-family: 'Noto Naskh Arabic';
 	text-align: justify;
+	display: inline-table;
 }
